@@ -1,0 +1,2 @@
+# PolicyPilot-Multi-Algorithm-RL-Framework-for-Simulated-Autonomous-Vehicles
+Developed a Gym CarRacing-v3 RL framework benchmarking DQN (Double &amp; Rainbow), PPO, SAC for autonomous vehicles • Engineered hyperparameter sweeps, propelling Rainbow DQN to ~800 reward in 1K episodes, 50% faster convergence • Collaborated with engineers and scientists—visualized metrics, prototyped autonomous-driving policies
